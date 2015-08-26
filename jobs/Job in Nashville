@@ -1,0 +1,49 @@
+---
+title: <Web Developer - Javascrip, HTML, Nodejs>
+company: <Gisbiz, Inc>
+url: http://<www.gisbiz.com>
+location: <Nashville, TN>
+# Choose one of the following options
+contract: permanent 
+contact:
+    name: <Yogendran Periyannan)>
+    email: <yogendran.periyannan@gisbiz.com>
+    phone: <615-460-1235>
+    <additional contact fields>: <additional value>
+created: !!timestamp '2015-08-26' # Update this with today's date
+tags:
+  - JavaScript
+  - HTML
+  - nodejs 
+  # include relevant tags
+---
+
+# This is a header
+
+GISbiz is looking for an experienced developer to code web applications and supporting scripts and tools. Someone who has helped design and implement large, highly scalable web platforms for thousands of users is a huge plus.
+
+Required: Someone dedicated to principals of good software development and user experiences. Must grow modern web development and tools including Git, HTML5, and Node.js.
+
+GISbiz has a tightly knit team of sales and development pros releasing new websites and applications on a regular basis. Our software is rich in data visualizations, business rules and workflows, integration with other enterprise systems, and interactive maps. You will be responsible for coding the database procedures, web APIs, HTML interfaces, and administrative scripts and tools for our projects. You must have some experience in all these application tiers, with an expertise in the web APIs and HTML/JavaScript front end.
+
+Qualifications
+•	A history of implementing successful web applications and APIs.
+•	A love for keeping up on trends in web technologies.
+•	Thorough understanding of JavaScript -- not just a 'working knowledge' but the ability to judge JavaScript code quality and push our team towards best practices.
+•	Understanding of backend data systems, especially SQL and some Windows/Linux administration. (You will not be hired as a systems admin or database admin, but you must be able to write proper SQL and have a good grasp on networks and operating systems.)
+Additional Qualifications
+•	GIS experience is a major plus.
+•	Experience with PostgreSQL and PostGIS is a major plus.
+•	Esri ArcGIS experience is a plus.
+•	Experience with Amazon Web Services: EC2, S3, SNS, SES, VPC, Route 53, CloudFront, and/or Elastic Beanstalk is a plus.
+•	Experience in .NET and C# is a plus.
+•	History of contributing pull requests to open source projects is a plus.
+•	Previous work with a multi-national, geographically distributed team is a plus.
+•	Understanding of the Agile/Scrum development process is a plus.
+Responsibilities
+•	Code. Write lots of lots of high quality code!
+•	Participate in the Agile/Scrum process, design sessions, and code reviews as needed.
+•	Implement delightful, consistent user experiences for web applications.
+•	Prioritize work and execute on ideas to meet these goals.
+
+Please submit your GitHub, BitBucket, CodePlex, SourceForge, and/or StackOverflow usernames along with your resume. People who love to write code tend to get involved in these online programming communities, but we are open to other ways you have expressed a passion in the work you do.
